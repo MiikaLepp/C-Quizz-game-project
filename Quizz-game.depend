@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1741747069 source:c:\users\opiskelu\desktop\x\main.cpp
+	"visa.h"
+	"kysymysClass.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1741825635 c:\users\opiskelu\desktop\x\visa.h
+	<iostream>
+	"kysymysClass.h"
+	<vector>
+	<fstream>
+	<algorithm>
+	<cctype>
+	<string>
+	<ctime>
+	<cstdlib>
+
+1741696044 c:\users\opiskelu\desktop\x\kysymysclass.h
+	<fstream>
+	<string>
+	<iostream>
+
+1741747069 source:c:\users\opiskelu\desktop\animal quizz game project folder\main.cpp
+	"visa.h"
+	"kysymysClass.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1741828458 c:\users\opiskelu\desktop\animal quizz game project folder\visa.h
+	<iostream>
+	"kysymysClass.h"
+	<vector>
+	<fstream>
+	<algorithm>
+	<cctype>
+	<string>
+	<ctime>
+	<cstdlib>
+
+1741696044 c:\users\opiskelu\desktop\animal quizz game project folder\kysymysclass.h
+	<fstream>
+	<string>
+	<iostream>
+
